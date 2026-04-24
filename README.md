@@ -2,7 +2,7 @@
 
 ## Getting Started
 1. If you are using Windows, install wsl by opening PowerShell as administrator and typing this command: "wsl --install" and then restart your computer
-2. Download and install Docker Desktop: https://www.docker.com/products/docker-desktop/
+2. Download and install Docker Desktop: https://www.docker.com/products/docker-desktop/ **Make sure to run the Docker Desktop installer as administrator
 3. Clone this repo (Do this inside WSL if on Windows)
 4. Within the repo, make a directory named "data"
 5. In VSCode, install the following extensions: "Dev Containers", "Container Tools", "FastAPI Extension". If you are on Windows, also install the "WSL" extension.
