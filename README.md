@@ -1,7 +1,7 @@
 # HackAZ-2026
 
 ## Getting Started
-1. If you are using Windows, install wsl by opening PowerShell as administrator and typing this command: "wsl --install" and then reboot
+1. If you are using Windows, install wsl by opening PowerShell as administrator and typing this command: "wsl --install" and then restart your computer
 2. Download and install Docker Desktop: https://www.docker.com/products/docker-desktop/
 3. Clone this repo (Do this inside WSL if on Windows)
 4. Within the repo, make a directory named "data"
