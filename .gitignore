@@ -238,3 +238,57 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Common sys files
+.*.swp
+._*
+.git
+.hg
+.sign
+.lock-wscript
+.svn
+.wafpickle-*
+.DS_Store
+.idea/
+*.tar
+*.jxp
+*.sublime-*
+
+# Logs
+*.log
+logs
+
+# NPM files
+node_modules
+
+# lando config
+env.yaml
+env.yml
+lando.env
+
+# Build dirs
+build
+dist
+
+# coverage reporting
+.nyc_output
+coverage/
+
+# docs
+.temp
+.cache
+_site
+dist
+cache
+temp
+config.*.timestamp-*-*.*
+
+# YARN
+yarn.lock
+
+
+# Syncthing
+.stfolder/
+.stversions/
+.stignore
+*.sync-conflict-*
