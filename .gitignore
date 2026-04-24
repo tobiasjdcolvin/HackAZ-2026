@@ -1,3 +1,15 @@
+# SQLite database
+data/
+*.db
+*.sqlite3
+
+# Environment files
+.env
+.env.prod
+
+# Docker
+docker-compose.override.yml
+
 .vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
